@@ -1,10 +1,11 @@
 /*
 * JANGAN UBAH-UBAH INFO!!!
 * "JANGAN MODAL NAMA DOANG BRO!!!"
+* SCRIPT BY FADHIL ID
 * JANGAN MODAL NAMA DOANG BOSQ
 * HARGAILAH YG MEMBUAT SCRIPT INI BOSQ
 * JANGAN UBAH-UBAH INFO!!!
-* DHYMAZ ID
+* FADHIL ID
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
 const qrcode = require("qrcode-terminal")
@@ -17,12 +18,12 @@ const arrayBulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Jul
 const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
-    A187: 'MY BOTS',
-    instagram: 'https://instagram.com/offdhymaz',
+    A187: 'N My Bot🤖',
+    instagram: 'https://instagram.com/offdhymaz_',
     nomer: 'wa.me/+6285796582392',
-    aktif: 'Di Jam Tertentu,
+    aktif: 'TERSERAH KALIAN MAU JAM BRP AKTIFNYA',
     youtube: 'https://youtube.com',
-    whatsapp: 'Onli public,
+    whatsapp: 'terserah kalian taruh group yg mana',
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
 }
