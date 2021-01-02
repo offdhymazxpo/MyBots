@@ -1,11 +1,11 @@
 /*
 * JANGAN UBAH-UBAH INFO!!!
 * "JANGAN MODAL NAMA DOANG BRO!!!"
-* SCRIPT BY FADHIL ID
+* dhymaz Id
 * JANGAN MODAL NAMA DOANG BOSQ
 * HARGAILAH YG MEMBUAT SCRIPT INI BOSQ
 * JANGAN UBAH-UBAH INFO!!!
-* FADHIL ID
+* XPro
 * BOLEH UBAH TAPI KECUALI INFO!!!
 */
 const qrcode = require("qrcode-terminal")
@@ -19,11 +19,11 @@ const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
     A187: '🔰_MyBot_🔰',
-    instagram: 'https://instagram.com/nur.fdhl_',
-    nomer: 'wa.me/6283102650464',
+    instagram: 'https://instagram.com/offdhymaz',
+    nomer: 'wa.me/6285796582392',
     aktif: 'TERGANTUNG OWNER',
     youtube: 'https://youtube.com',
-    whatsapp: 'https://chat.whatsapp.com/D8YpSLQWqvh6AYLyn5HnSB',
+    whatsapp: 'https://wa.me/message/W5AYDOXRW7WRF1',
     tanggal: `TANGGAL: ${moment().format('DD')} ${bulan} ${moment().format('YYYY')}`,
     waktu: time
 }
