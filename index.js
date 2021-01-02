@@ -1,7 +1,6 @@
 /*
 * JANGAN UBAH-UBAH INFO!!!
 * "JANGAN MODAL NAMA DOANG BRO!!!"
-* SCRIPT BY FADHIL ID
 * JANGAN MODAL NAMA DOANG BOSQ
 * HARGAILAH YG MEMBUAT SCRIPT INI BOSQ
 * JANGAN UBAH-UBAH INFO!!!
@@ -19,7 +18,7 @@ const bulan = arrayBulan[moment().format('MM') - 1]
 
 const config = {
     A187: 'MY BOTS',
-    instagram: 'https://instagram.com/offdhymaz,
+    instagram: 'https://instagram.com/offdhymaz',
     nomer: 'wa.me/+6285796582392',
     aktif: 'Di Jam Tertentu,
     youtube: 'https://youtube.com',
